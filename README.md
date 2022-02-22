@@ -1,8 +1,4 @@
 <div>
-<h3 align="center">
-  Hi there. I'm Tiago Nobrega 👋
-</h3>
-
 <div align="center">
 <p>
 <img src="./assets/hero-header.svg" alt="Header SVG" style="max-width: 100%;" />
