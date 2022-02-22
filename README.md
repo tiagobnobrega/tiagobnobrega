@@ -6,7 +6,6 @@
 <div align="center">
 <p>
 <img src="./assets/hero-header.svg" alt="Header SVG" style="max-width: 100%;" />
-<img src="./assets/waves-divider.svg" alt="Header SVG" style="max-width: 100%;" />
 </p>
 
 
