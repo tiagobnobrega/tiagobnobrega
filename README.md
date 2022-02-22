@@ -1,8 +1,8 @@
 <div>
-<div align="center">
-<p>
+<div align="center">\
+<a href="#" target="_self">
 <img src="./assets/hero-header.svg" alt="Header SVG" style="max-width: 100%;" />
-</p>
+</a>
 
 
 
