@@ -1,32 +1,17 @@
-<div style="background-color: transparent;">
-<div style="height: 200px; padding-top: 30px; position: relative; background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);">
-
-<h3 style="text-align: center">
+<div>
+<h3 align="center">
   Hi there. I'm Tiago Nobrega 👋
 </h3>
 
-<div style="text-align: center">
+<div align="center">
 
-![Typing SVG](./assets/hero-typing.svg)
-
-</div>
-</div>
-
-<!-- Divider -->
-<div style="position:relative;margin-top: -20px">
-<div style="height:200px;position: absolute;top: 0;left: 0;width: 100%;overflow: hidden;line-height: 0;">
+![Header SVG](./assets/hero-header.svg)
 
 ![Waves](./assets/waves-divider.svg)
 
 </div>
-
-<div style="height: 85px">&nbsp;</div>
-
-##WIP
-
 </div>
 
-</div>
 
 <!--
 **tiagobnobrega/tiagobnobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
